@@ -1,0 +1,15 @@
+{
+  "name": "@ashu/howtonpm",
+  "version": "1.0.0",
+  "description": "ho-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ashu",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": "http://localhost/"
+}
